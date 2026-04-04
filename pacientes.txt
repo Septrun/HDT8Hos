@@ -1,0 +1,30 @@
+Erling Haaland, fractura de metatarsiano, A
+Vinicius Jr, golpe en la cabeza, A
+Kylian Mbappe, fatiga muscular, B
+Lamine Yamal, esguince de rodilla, B
+Lionel Messi, lesion de tobillo, C
+Cristiano Ronaldo, chequeo de rutina, E
+Jude Bellingham, dolor de espalda, D
+Kevin De Bruyne, desgarro muscular, B
+Mohamed Salah, corte profundo, A
+Rodri, rotura de ligamentos, A
+Harry Kane, esguince de tobillo, C
+Antoine Griezmann, mareos fuertes, B
+Robert Lewandowski, dolor abdominal, C
+Luka Modric, cansancio extremo, D
+Bukayo Saka, contusion muscular, C
+Phil Foden, infeccion viral, D
+Jamal Musiala, torsion de tobillo, B
+Florian Wirtz, fiebre alta, D
+Pedri, molestia en el muslo, C
+Federico Valverde, deshidratacion, D
+Alisson Becker, fractura de dedo, B
+Thibaut Courtois, dolor lumbar, C
+Bernardo Silva, gripe fuerte, E
+Bruno Fernandes, herida abierta, B
+Declan Rice, golpe en costillas, C
+Luis Diaz, calambres severos, D
+Lautaro Martinez, dolor de muela, E
+Julian Alvarez, alergia severa, C
+Rafael Leao, vision borrosa, B
+Gavi Gavira, recuperacion post-operatoria, E
